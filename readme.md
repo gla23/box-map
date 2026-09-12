@@ -15,29 +15,47 @@ There are a huge number of ways to do both of these things, and each method will
 
 Storing methods:
 
-- Rote method: Your brain can store things naturally by repetition, especially when spoken aloud
+- Rote memory: Your brain can store things naturally by repetition, especially when spoken aloud
 - Memory palace: Attach content to locations in a journey
-- Kinesthetic memory: Adding physical movements
+- Kinesthetic memory: Add physical movements
 - Mnemonic techniques: e.g. major sytem, peg lists
 - Visual memory: Artwork, drawing, or even...
 - **Chapter maps**: This is the one I've invented and am sharing here in case others find it useful
 
-Reviewing methods:
+Review methods:
 
-- Make yourself a schedule e.g. decreasing regularity
-- When you "walk past" the text if it's anchored to a location you visit
+- Make yourself a schedule e.g. go over chapters on decreasing regularity
+- When you "walk past" the text if it's anchored to a location you visit or travel through
 - Digital spaced repetition e.g. BibleMemory app
-- **My custom "chain mail chapters" on BibleMemory**: A refined method of BibleMemory that I use and am interested to see what others think
+
+The chapter map method that this page exaplains works with any review method.
 
 # "Chapter Maps"
 
 Right so here's the idea...
 
+To do: loads of stuff
+
+Drawing explanation:
+ - Being able to join the boxes is very helpful e.g. ai house
+ - You can use consistent symbols for words (e.g. light bulb as know/knowledge) If there isn't an obvious symbol you want to you, can use a rhyme to create your own link
+
 # Custom divisions
 
 Yo this is super helpful for long term
+Whatever storage method I would use I would do this, but it's especially important for chapter map or it kind of breaks down.
+Story of how I have got better at it and I still can immediately tell if it's a chapter I didn't do it for.
+These examples I'm sharing for you are very good.
+
 
 # BibleMemory chain mail chapters
+
+This next section is useful if you want to:
+- Use the BibleMemory app for your review
+- Like the custom divisions idea
+- SMV
+
+It also adds another concept called chain mail...
 
 To do:
 
