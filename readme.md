@@ -6,7 +6,7 @@ In order to explain what this is I will explain a little of the landscape, then 
 
 # Landscape
 
-In order to internalise a chapter you need to things:
+In order to internalise a chapter you need two things:
 
 1. Some kind of storage method
 2. Some kind of review schedule
@@ -19,14 +19,30 @@ Storing methods:
 - Memory palace: Attach content to locations in a journey
 - Kinesthetic memory: Adding physical movements
 - Mnemonic techniques: e.g. major sytem, peg lists
-- Visual memory: Artwork, drawing, or even
-- **Chapter maps**: This is my one that I've "invented" and am sharing with you!
+- Visual memory: Artwork, drawing, or even...
+- **Chapter maps**: This is the one I've invented and am sharing here in case others find it useful
 
 Reviewing methods:
 
 - Make yourself a schedule e.g. decreasing regularity
 - When you "walk past" the text if it's anchored to a location you visit
 - Digital spaced repetition e.g. BibleMemory app
-- **My custom "chainmail chapters" on BibleMemory**: A refined method of BibleMemory that I use and am interested to see what others think
+- **My custom "chain mail chapters" on BibleMemory**: A refined method of BibleMemory that I use and am interested to see what others think
 
-# Content
+# "Chapter Maps"
+
+Right so here's the idea...
+
+# Custom divisions
+
+Yo this is super helpful for long term
+
+# BibleMemory chain mail chapters
+
+To do:
+
+- Explain BibleMemory
+- Explain 'chain mail chapters' and why
+- Link to the group to save manually doing chain mail + custom divisions
+
+My one rule is no rushing to meet reviews - having a pile up of reviews is fine even if the app seems to be rebuking you with red colours. Going ahead with reviews is also fine. Just enjoy it, slow down, and be present.
